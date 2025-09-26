@@ -28,5 +28,5 @@ Delivered a reproducible BI dashboard with interactive filters, calculated metri
 Надано відтворюваний BI-дашборд з інтерактивними фільтрами, обчислюваними метриками та географічною візуалізацією
 
 ## Links / Посилання  
-Tableau Dashboard: [вставити-посилання-на-public]  
-Screenshots: `screenshots/dashboard_overview.png`
+Tableau Dashboard: [[вставити-посилання-на-public](https://public.tableau.com/app/profile/ivan.ivanskyi/viz/Project_Tableau_17527557465970/Dashboard1)]  
+
